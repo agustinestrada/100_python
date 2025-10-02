@@ -1,3 +1,5 @@
+import pprint
+
 class QuizBrain:
 
     def __init__(self,list):
@@ -23,3 +25,5 @@ class QuizBrain:
             print("You're wrong")
             print(f"Your score is now {self.score}/{self.question_number}")
         print(f'La respuesta era {correct_answer}')
+
+pprint.pprint(dir(QuizBrain.next_question))
