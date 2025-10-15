@@ -8,7 +8,7 @@ screen = Screen()
 screen.setup(width=740,height=500)
 
 # Poner el mapa de USA de fondo
-screen.bgpic('blank_states_img.gif')
+screen.bgpic('Argentina.png')
 
 # Leer el archivo CSV
 data = pandas.read_csv('./50_states.csv')
