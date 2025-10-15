@@ -1,0 +1,49 @@
+# Sacar Posiciones
+
+# screen = Screen()
+# screen.listen()
+
+# tim = Turtle()
+# tim.color('red')
+
+# class Movimiento:
+
+#     def __init__(self,tortuga,pantalla):
+#         self.tortuga = tortuga
+#         self.pantalla = pantalla
+
+#     def move_foward(self):
+#         self.tortuga.forward(10)
+
+#     def turn_right(self):
+#         self.tortuga.right(10)
+
+#     def turn_left(self):
+#         self.tortuga.left(10)
+
+#     def turn_around(self):
+#         self.tortuga.left(180)
+
+#     def walk_backwards(self):
+#         self.tortuga.forward(-10)
+    
+#     def dar_posicion(self):
+#         print(self.tortuga.position())
+
+#     def exitt(self):
+#         self.pantalla.bye()
+
+# def clear_canva(self):
+#     self.tortuga.clear()
+
+# # Creamos controladores para cada tortuga
+# control_tim = Movimiento(tim,screen)
+
+# # Asignamos teclas a la tortuga "tim"
+# screen.onkey(control_tim.move_foward, "w")
+# screen.onkey(control_tim.walk_backwards, "s")
+# screen.onkey(control_tim.turn_right, "d")
+# screen.onkey(control_tim.turn_left, "a")
+# screen.onkey(control_tim.dar_posicion, "space")
+# screen.onkey(control_tim.exitt, "Escape")
+

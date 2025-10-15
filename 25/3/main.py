@@ -5,26 +5,29 @@ import time
 
 # Inicializar los imports
 screen = Screen()
-screen.setup(width=740,height=500)
+screen.setup(width=740,height=1000)
 
 # Poner el mapa de USA de fondo
 screen.bgpic('Argentina.png')
 
 # Leer el archivo CSV
-data = pandas.read_csv('./50_states.csv')
+data = pandas.read_csv('./provincias.csv')
 
 # Aislar la columna de los estados para poder buscar despues
-lista_de_estados = data['state'].to_list()
+lista_de_estados = data['provincia'].to_list()
 
-# Pedir al usuario que escriba el nombre de un estado
+print(data[data['provincia'] == 'La Rioja'])
+
 print(len(lista_de_estados))
+
 while len(lista_de_estados) > 0:
-    estado = screen.textinput(title='States Game',prompt='Indique el nombre de un Estado')
+    # Pedir al usuario que escriba el nombre de un estado
+    estado = screen.textinput(title='provincias Game',prompt='Indique el nombre de una Provincia')
     # Validar si ese estado existe en la lista
     if lista_de_estados.count(estado):
         # Crear las cordenadas para el GOTO de Turtle
         estado_coordenadas = []
-        estado_aislado = data[data['state'] == estado]
+        estado_aislado = data[data['provincia'] == estado]
         estado_coordenadas.append(int(estado_aislado['x'].values[0]))
         estado_coordenadas.append(int(estado_aislado['y'].values[0]))
 
