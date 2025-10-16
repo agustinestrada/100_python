@@ -22,7 +22,7 @@ print(len(lista_de_estados))
 
 while len(lista_de_estados) > 0:
     # Pedir al usuario que escriba el nombre de un estado
-    estado = screen.textinput(title='provincias Game',prompt='Indique el nombre de una Provincia')
+    estado = screen.textinput(title='provincias Game',prompt='Indique el nombre de una Provincia').title()
     # Validar si ese estado existe en la lista
     if lista_de_estados.count(estado):
         # Crear las cordenadas para el GOTO de Turtle
