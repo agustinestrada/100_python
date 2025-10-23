@@ -1,0 +1,754 @@
+{
+    "Jockey Club Argentino": {
+        "Albatros": [
+            {
+                "Tee": "Rojo",
+                "Caballeros": {
+                    "Rating": 65.9,
+                    "Slope": 107
+                }
+            }
+        ],
+        "Azul": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 70.4,
+                    "Slope": 121
+                }
+            },
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 70.2,
+                    "Slope": 123
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 69.1,
+                    "Slope": 120
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 67.5,
+                    "Slope": 111
+                }
+            }
+        ],
+        "Central": [
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 69.4,
+                    "Slope": 123
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 68.4,
+                    "Slope": 120
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 66.9,
+                    "Slope": 113
+                }
+            }
+        ],
+        "Colorada": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 72.9,
+                    "Slope": 123
+                }
+            },
+            {
+                "Tee": "Rojo",
+                "Caballeros": {
+                    "Rating": 71.1,
+                    "Slope": 122
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 70.1,
+                    "Slope": 122
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 69.1,
+                    "Slope": 122
+                }
+            }
+        ],
+        "Junior": [
+            {
+                "Tee": "Celeste",
+                "Caballeros": {
+                    "Rating": 63.0,
+                    "Slope": 102
+                }
+            },
+            {
+                "Tee": "Verde",
+                "Caballeros": {
+                    "Rating": 58.0,
+                    "Slope": 109
+                }
+            }
+        ]
+    },
+    "Buenos Aires GC": {
+        "Blue-Green": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 72.7,
+                    "Slope": 129
+                }
+            },
+            {
+                "Tee": "Rojo",
+                "Caballeros": {
+                    "Rating": 70.4,
+                    "Slope": 128
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 68.1,
+                    "Slope": 124
+                }
+            }
+        ],
+        "Blue-Yellow": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 72.3,
+                    "Slope": 129
+                }
+            },
+            {
+                "Tee": "Rojo",
+                "Caballeros": {
+                    "Rating": 70.3,
+                    "Slope": 128
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 68.5,
+                    "Slope": 126
+                }
+            }
+        ],
+        "Green-Blue": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 72.7,
+                    "Slope": 129
+                }
+            },
+            {
+                "Tee": "Rojo",
+                "Caballeros": {
+                    "Rating": 70.4,
+                    "Slope": 128
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 68.1,
+                    "Slope": 124
+                }
+            }
+        ],
+        "Green-Yellow": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 72.4,
+                    "Slope": 127
+                }
+            },
+            {
+                "Tee": "Rojo",
+                "Caballeros": {
+                    "Rating": 70.1,
+                    "Slope": 127
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 68.6,
+                    "Slope": 121
+                }
+            }
+        ],
+        "Yellow-Blue": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 72.3,
+                    "Slope": 129
+                }
+            },
+            {
+                "Tee": "Rojo",
+                "Caballeros": {
+                    "Rating": 70.3,
+                    "Slope": 128
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 68.5,
+                    "Slope": 126
+                }
+            }
+        ],
+        "Yellow-Green": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 72.4,
+                    "Slope": 127
+                }
+            },
+            {
+                "Tee": "Rojo",
+                "Caballeros": {
+                    "Rating": 70.1,
+                    "Slope": 127
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 68.6,
+                    "Slope": 121
+                }
+            }
+        ]
+    },
+    "La Colina": {
+        "La Colina": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 73.7,
+                    "Slope": 129
+                }
+            },
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 72.0,
+                    "Slope": 126
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 71.0,
+                    "Slope": 126
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 68.5,
+                    "Slope": 121
+                }
+            }
+        ]
+    },
+    "pinguinos": {
+        "pinguinos": [
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 72.8,
+                    "Slope": 130
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 71.0,
+                    "Slope": 130
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 68.1,
+                    "Slope": 116
+                }
+            }
+        ]
+    },
+    "Estancias": {
+        "Central": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 73.9,
+                    "Slope": 132
+                }
+            },
+            {
+                "Tee": "Dorado",
+                "Caballeros": {
+                    "Rating": 72.4,
+                    "Slope": 128
+                }
+            },
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 70.9,
+                    "Slope": 128
+                }
+            },
+            {
+                "Tee": "Verde",
+                "Caballeros": {
+                    "Rating": 68.7,
+                    "Slope": 126
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 65.9,
+                    "Slope": 113
+                }
+            }
+        ]
+    },
+    "Lagartos": {
+        "Agua-Larga": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 72.1,
+                    "Slope": 128
+                }
+            },
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 71.1,
+                    "Slope": 122
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 69.5,
+                    "Slope": 116
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 67.3,
+                    "Slope": 116
+                }
+            },
+            {
+                "Tee": "Rojo",
+                "Caballeros": {
+                    "Rating": 66.5,
+                    "Slope": 114
+                }
+            }
+        ],
+        "Campeonato": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 72.8,
+                    "Slope": 124
+                }
+            },
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 72.0,
+                    "Slope": 124
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 70.0,
+                    "Slope": 122
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 67.8,
+                    "Slope": 117
+                }
+            },
+            {
+                "Tee": "Rojo",
+                "Caballeros": {
+                    "Rating": 67.3,
+                    "Slope": 119
+                }
+            }
+        ],
+        "Larga-Vieja": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 73.1,
+                    "Slope": 130
+                }
+            },
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 72.4,
+                    "Slope": 126
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 71.0,
+                    "Slope": 120
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 69.3,
+                    "Slope": 117
+                }
+            },
+            {
+                "Tee": "Rojo",
+                "Caballeros": {
+                    "Rating": 68.7,
+                    "Slope": 115
+                }
+            }
+        ],
+        "Vieja-Agua": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 70.7,
+                    "Slope": 124
+                }
+            },
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 69.9,
+                    "Slope": 121
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 68.3,
+                    "Slope": 120
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 66.2,
+                    "Slope": 115
+                }
+            },
+            {
+                "Tee": "Rojo",
+                "Caballeros": {
+                    "Rating": 66.0,
+                    "Slope": 113
+                }
+            }
+        ]
+    },
+    "Cardales CC": {
+        "Cancha 1": [
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 70.5,
+                    "Slope": 122
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 69.4,
+                    "Slope": 119
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 67.1,
+                    "Slope": 113
+                }
+            }
+        ],
+        "Cancha 2": [
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 70.7,
+                    "Slope": 123
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 69.6,
+                    "Slope": 120
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 67.5,
+                    "Slope": 113
+                }
+            }
+        ],
+        "Cancha 3": [
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 70.7,
+                    "Slope": 127
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 69.5,
+                    "Slope": 122
+                }
+            }
+        ],
+        "Cancha 4": [
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 70.0,
+                    "Slope": 126
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 68.7,
+                    "Slope": 122
+                }
+            }
+        ]
+    },
+    "Costa Esmeralda": {
+        "Vieja": [
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 74.0,
+                    "Slope": 129
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 71.0,
+                    "Slope": 121
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 67.6,
+                    "Slope": 115
+                }
+            }
+        ],
+        "Nueva": [
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 74.0,
+                    "Slope": 129
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 71.0,
+                    "Slope": 128
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 67.4,
+                    "Slope": 127
+                }
+            }
+        ]
+    },
+    "Mayling": {
+        "Mayling": [
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 70.1,
+                    "Slope": 132
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 69.0,
+                    "Slope": 120
+                }
+            },
+            {
+                "Tee": "Rojo",
+                "Caballeros": {
+                    "Rating": 67.3,
+                    "Slope": 125
+                }
+            }
+        ]
+    },
+    "Everlinks": {
+        "Everlinks": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 76.1,
+                    "Slope": 137
+                }
+            },
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 73.6,
+                    "Slope": 132
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 71.6,
+                    "Slope": 127
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 69.9,
+                    "Slope": 122
+                }
+            }
+        ]
+    },
+    "San Sebastian": {
+        "San Sebastian": [
+            {
+                "Tee": "Negro",
+                "Caballeros": {
+                    "Rating": 75.4,
+                    "Slope": 126
+                }
+            },
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 73.0,
+                    "Slope": 118
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 69.6,
+                    "Slope": 121
+                }
+            },
+            {
+                "Tee": "Amarillo",
+                "Caballeros": {
+                    "Rating": 66.6,
+                    "Slope": 113
+                }
+            }
+        ]
+    },
+    "Nordelta": {
+        "Nordelta": [
+            {
+                "Tee": "Gris",
+                "Caballeros": {
+                    "Rating": 74.3,
+                    "Slope": 139
+                }
+            },
+            {
+                "Tee": "Azul",
+                "Caballeros": {
+                    "Rating": 73.1,
+                    "Slope": 140
+                }
+            },
+            {
+                "Tee": "Blanco",
+                "Caballeros": {
+                    "Rating": 71.1,
+                    "Slope": 132
+                }
+            },
+            {
+                "Tee": "Verde",
+                "Caballeros": {
+                    "Rating": 69.1,
+                    "Slope": 128
+                }
+            },
+            {
+                "Tee": "Rojo",
+                "Caballeros": {
+                    "Rating": 66.8,
+                    "Slope": 125
+                }
+            }
+        ]
+    }
+}
