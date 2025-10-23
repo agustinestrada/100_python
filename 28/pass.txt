@@ -1,0 +1,4 @@
+amazon, a@gmail.com, hola
+google, a@gmail.com, chevere
+pga, agu@hola.com, 2345
+nose, nq@gmail.com, 1234
