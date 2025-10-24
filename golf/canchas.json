@@ -36,6 +36,10 @@
                 "Caballeros": {
                     "Rating": 67.5,
                     "Slope": 111
+                },
+                "Damas":{
+                    "Rating":72.3,
+                    "Slope":128
                 }
             }
         ],
